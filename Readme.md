@@ -127,3 +127,6 @@ function createPUTRequest(connToken, jsonObj, dbName, relName) {
 - **Backend:** JsonPowerDB (via REST API)
 
 ---
+
+## Output
+- [JsonPowerDB Result](https://drive.google.com/file/d/18Z4MEXJhjiRTynKHgB4rnwK8jel1frtr/view?usp=drive_link)
